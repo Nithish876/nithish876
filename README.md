@@ -14,8 +14,8 @@
 - 🎯 Focused on **custom module creation** and enhancing app performance  
 - 🏗️ Recently worked on a **Fleet Management App** and IoT integrations  
 - ⚡ **Solving 500+ DSA problems** on LeetCode, CodeChef, and CodeForces  
-- 🌱 Currently exploring **Web3**, **Rust**, and **System Programming**  
-- 💬 Ask me about **React Native**, **IoT**, or **optimizing DSA solutions**
+- 🌱 Currently exploring **Web3**, **java**, and **Game Programming**  
+- 💬 Ask me about **React Native**, **IoT**, or **Game Programming**
 
 ---
 
@@ -32,7 +32,7 @@
 
 ### 🚀 What I’m Working On
 - 💡 A **GPS tracking IoT device** with ESP32, NEO6M, and SIM800L  
-- 📱 A **React Native Fleet Management App** for real-time vehicle tracking  
+- 📱 A **Educational app for kids** help them learn to code!
 - 🔐 Building secure **custom modules** to optimize performance and reliability  
 - 🎮️ Developing a **2D game engine** from scratch in vanilla JS  
 - ⚙️ Grinding **LeetCode & Codeforces** to master **DSA & system design**  
@@ -46,8 +46,8 @@
 </div>
 
 📊 **DSA Progress:**  
-- **Solved 500+ problems** on **LeetCode, CodeChef, and CodeForces**  
-- **Ranked in top X%** in coding competitions (update with rank if applicable)  
+- **Solved 50+ problems** on **LeetCode, CodeChef, and CodeForces**  
+- **Ranked in top 99% 😁** in coding competitions grinding to get better 
 - Actively improving **problem-solving skills** for big tech interviews  
 
 ---
