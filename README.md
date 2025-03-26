@@ -13,7 +13,7 @@
 - 🌟 Passionate about **building innovative apps** that improve lives  
 - 🎯 Focused on **custom module creation** and enhancing app performance  
 - 🏗️ Recently worked on a **Fleet Management App** and IoT integrations  
-- ⚡ **Solving 500+ DSA problems** on LeetCode, CodeChef, and CodeForces  
+- ⚡ **Solving 50+ DSA problems** on LeetCode, CodeChef, and CodeForces  
 - 🌱 Currently exploring **Web3**, **java**, and **Game Programming**  
 - 💬 Ask me about **React Native**, **IoT**, or **Game Programming**
 
