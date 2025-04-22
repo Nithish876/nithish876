@@ -46,10 +46,7 @@
 ### 📈 GitHub & DSA Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nithish876&show_icons=true&theme=radical" alt="GitHub Stats" />
-<!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nithish876&theme=radical" alt="GitHub Streak" /> -->
-<!--   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Nithish876)](https://git.io/streak-stats) -->
-<!--  <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=Nithish876" alt="GitHub Streak" /></a> -->
-  <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=Nithish876" alt="GitHub Streak" /></a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nithish876&theme=radical" alt="GitHub Streak" />
 </div>
 
 📊 **DSA Progress:**  
