@@ -1,6 +1,5 @@
-<!-- Profile Header -->
 <h1 align="center">Hi 👋, I'm <a href="https://github.com/nithish876" target="_blank">Nithish</a>!</h1>
-<h3 align="center">🚀 React Native Developer | Problem Solver | DSA Enthusiast</h3>
+<h3 align="center">🚀 Young Tech Entrepreneur | Software Builder | Open Source Advocate</h3>
 
 <div align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" alt="Coding GIF">
@@ -10,12 +9,11 @@
 
 ### 👨‍💻 About Me
 
-- 🌟 Passionate about **building innovative apps** that improve lives  
-- 🎯 Focused on **custom module creation** and enhancing app performance  
-- 🏗️ Recently worked on a **Fleet Management App** and IoT integrations  
-- ⚡ **Solving 50+ DSA problems** on LeetCode, CodeChef, and CodeForces  
-- 🌱 Currently exploring **Web3**, **java**, and **Game Programming**  
-- 💬 Ask me about **React Native**, **IoT**, or **Game Programming**
+- 🌟 Passionate about **building revolutionary software** from scratch  
+- 🎯 Focused on **creating scalable solutions**, **innovative products**, and contributing to **open source**  
+- 💼 Funding my **tech ventures through Upwork**, with a vision to launch my own **SaaS products** and **startups**  
+- 🏗️ Currently exploring **Web3**, **Game Programming**, and **IoT Innovations**    
+- 🌱 Continuously evolving as a **tech entrepreneur**, creating disruptive solutions that change industries  
 
 ---
 
@@ -35,11 +33,13 @@
 ---
 
 ### 🚀 What I’m Working On
-- 💡 A **GPS tracking IoT device** with ESP32, NEO6M, and SIM800L  
-- 📱 A **Educational app for kids** help them learn to code!
-- 🔐 Building secure **custom modules** to optimize performance and reliability  
-- 🎮️ Developing a **2D game engine** from scratch in vanilla JS  
-- ⚙️ Grinding **LeetCode & Codeforces** to master **DSA & system design**  
+ 
+- 📱 Developing an **Educational app for kids** to help them learn coding  
+- 🔐 Innovating with **custom modules** to optimize performance, security, and scalability for **SaaS products**  
+- 🎮️ Creating a **2D game engine** from scratch in Java to help kids learn game development!
+- 🏗️ Exploring **Web3** and **blockchain technologies** to build decentralized and disruptive solutions
+- 💡 Building a **GPS tracking IoT device** with ESP32, NEO6M, and SIM800L 
+- ⚙️ Grinding **LeetCode & Codeforces** to improve my **problem-solving skills** for building scalable startups  
 
 ---
 
@@ -50,9 +50,8 @@
 </div>
 
 📊 **DSA Progress:**  
-- **Solved 50+ problems** on **LeetCode, CodeChef, and CodeForces**  
-- **Ranked in top 99% 😁** in coding competitions grinding to get better 
-- Actively improving **problem-solving skills** for big tech interviews  
+
+- Actively improving my **problem-solving and system design** skills for the next big **SaaS startup**  
 
 ---
 
@@ -73,4 +72,4 @@
 ---
 
 ### ✨ Fun Fact
-When I’m not coding, I’m probably **cracking DSA problems** or exploring the **intersection of technology and art**! 🎨💻
+When I’m not coding, I’m probably **brainstorming ideas for my next SaaS product**, diving into **disruptive tech**, or exploring the **intersection of technology and art**! 🎨💻
