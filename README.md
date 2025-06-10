@@ -11,7 +11,7 @@
 
 ### 🚀 About Me
 
-I’m an 18-year-old self-taught developer building sleek, animated, and high-performance mobile apps using **React Native + Expo**, and occasionally diving into **Kotlin (Native Android)**.
+I’m a young self-taught developer building sleek, animated, and high-performance mobile apps using **React Native + Expo**, and occasionally diving into **Kotlin (Native Android)**.
 
 I build for real-world use — habit trackers, invoice generators, parenting tools, you name it. Every app is crafted with clean code, pixel-perfect UI, and professional logic that clients love.
 
