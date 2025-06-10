@@ -86,7 +86,7 @@ Need a polished mobile app? Want your UI to feel premium? Or just want to collab
 
 ## 🔗 Quick Links
 
-* 🌍 Portfolio: [nithish876.netlify.app](https://nithish876.netlify.app)
+* 🌍 Portfolio: [nithish876.netlify.app](https://nithish876.netlify.app/)
 * 📸 Instagram (coming soon): [@code.with.nithish](#)
 * 🔥 Upwork: [Profile Link](https://www.upwork.com/freelancers/~019a296596dd84eb01)
  
