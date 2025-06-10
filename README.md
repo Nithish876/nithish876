@@ -2,7 +2,7 @@
 <h3 align="center"><em>Mobile App Developer | React Native (Expo) Specialist | UI Perfectionist</em></h3>
 
 <p align="center">
-  <a href="https://www.nithish876.netlify.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%2300C7B7.svg?style=for-the-badge&logo=firefox&logoColor=white" /></a>
+  <a href="https://www.nithish876.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%2300C7B7.svg?style=for-the-badge&logo=firefox&logoColor=white" /></a>
   <a href="https://wa.me/919345423474" target="_blank"><img src="https://img.shields.io/badge/Chat%20on%20WhatsApp-%2300C853.svg?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
   <a href="mailto:nithish876876@gmail.com"><img src="https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
