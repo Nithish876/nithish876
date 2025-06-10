@@ -88,7 +88,7 @@ Need a sleek mobile app with stunning UI and smooth animations? Let's build some
 
 ## 🔗 Quick Links
 
-* 🌍 Portfolio: [nithish876.netlify.app](https://www.nithish876.netlify.app/)
+* 🌍 Portfolio: [nithish876.netlify.app](https://nithish876.netlify.app/)
 * 📷 Instagram (coming soon): [@code.with.nithish](#)
 * 🔥 Upwork: [Profile](https://www.upwork.com/freelancers/~019a296596dd84eb01)
 
