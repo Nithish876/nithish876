@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Nithish</h1>
-<h3 align="center">Mobile App Developer | React Native (Expo) | Frontend Engineer</h3>
+<h1 align="center">Hi 👋, I'm <span style="color:#00C7B7">Nithish</span></h1>
+<h3 align="center"><em>Mobile App Developer | React Native (Expo) Specialist | UI Perfectionist</em></h3>
 
 <p align="center">
   <a href="https://www.nithish876.netlify.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%2300C7B7.svg?style=for-the-badge&logo=firefox&logoColor=white" /></a>
@@ -11,25 +11,25 @@
 
 ### 🚀 About Me
 
-I’m a young self-taught developer building sleek, animated, and high-performance mobile apps using **React Native + Expo**, and occasionally diving into **Kotlin (Native Android)**.
+I'm an 18-year-old, self-taught developer from India, focused on building clean, performant, and visually stunning mobile apps using **React Native (Expo)**. Whether it's animations, authentication, or advanced state management — I go all in.
 
-I build for real-world use — habit trackers, invoice generators, parenting tools, you name it. Every app is crafted with clean code, pixel-perfect UI, and professional logic that clients love.
+I believe in quality over quantity. Every project I ship solves a real problem and is engineered with precision. I also explore **Kotlin (Native Android)** and **Frontend Full Stack** to expand my creative and technical potential.
 
-- 🔥 Currently mastering: `React Native Animations`, `Firebase`, `Supabase`, `Expo Router v3`
-- 📦 Also exploring: `Frontend Full Stack`, `Next.js`, `Tailwind`, `Node.js`
-- 🎯 Career goal: Become a top 1% developer who can't be replaced by AI 🤖
-- 🌕 Ultimate goal: Build tools that serve real humans, on Earth — and Mars 🌍🚀
+* 🔥 **Currently mastering:** React Native Animations, Expo Router v3, Firebase, Supabase
+* 🛋 **Exploring:** Next.js, TailwindCSS, Node.js, Framer Motion
+* 🌟 **Ambition:** Become the top 1% dev no AI can replace
+* 🌕 **Endgame:** Tools that uplift humanity — on Earth and beyond
 
 ---
 
 ### 🧠 Tech Stack
 
 ```ts
-Mobile: React Native (Expo, Expo Router), Native Android (Kotlin)
-Frontend: React.js, Next.js, TailwindCSS, GSAP, Framer Motion
-Backend: Firebase, Supabase, Node.js, Express.js, MongoDB, MySQL
-Dev Tools: Git, Figma, VS Code, Postman
-````
+Mobile:    React Native (Expo, Expo Router), Native Android (Kotlin)
+Frontend:  React.js, Next.js, TailwindCSS, GSAP, Framer Motion
+Backend:   Firebase, Supabase, Node.js, Express.js, MongoDB, MySQL
+Tools:     Git, Figma, VS Code, Postman, Vercel, Netlify
+```
 
 ---
 
@@ -37,57 +37,59 @@ Dev Tools: Git, Figma, VS Code, Postman
 
 #### 📱 Haby — Habit Tracker App
 
-> Fully functional habit app with streaks, dark/light mode, analytics, and in-app purchases.
+> Habit tracker app with daily goals, progress analytics, and premium monetization.
 
-* Clean modern UI (Figma → Pixel-perfect)
-* Superwall + RevenueCat for monetization
-* Firebase auth + Supabase DB
-* Expo Router 3 navigation
+* 🎨 Pixel-perfect UI built from Figma designs
+* 📉 Firebase Auth + Supabase DB
+* 💸 Superwall + RevenueCat integration
+* 🛈 Built with Expo Router v3 and prebuild for performance
 
-🔗 [Live App Preview](https://haby.netlify.app) (or App Store / client demo)
-🛠️ [GitHub Repo](https://github.com/nithish876/haby)
+🔗 [Live App Preview](https://haby.netlify.app)
+🔧 [GitHub Repo](https://github.com/nithish876/haby)
 
 ---
 
 #### 📄 Invoice Generator App
 
-> Create and export invoices beautifully. One free template, premium options for revenue.
+> Professional invoice generator with premium templates and PDF export.
 
-* Auth, PDF export, animations
-* Built for mobile-first freelancers
-* Prebuild + Supabase integration
+* ✉️ Auth & secured data sync
+* 🔖 PDF generation from custom templates
+* ✨ One-click invoice export and animations
+* 📝 Supabase + Expo Prebuild stack
 
-🔗 \[Demo Coming Soon]
-🛠️ [GitHub Repo](https://github.com/nithish876/invoice-app)
+🔗 Coming soon...
+🔧 [GitHub Repo](https://github.com/nithish876/invoice-app)
 
 ---
 
-### 📈 GitHub Stats
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nithish876&show_icons=true&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nithish876&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nithish876&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nithish876&theme=radical" width="48%" />
 </p>
 
 ---
 
-### 💬 Let's Talk
+### 💬 Let's Work Together
 
-Need a polished mobile app? Want your UI to feel premium? Or just want to collaborate on something cool?
+Need a sleek mobile app with stunning UI and smooth animations? Let's build something great together.
 
-📬 Message me directly on [WhatsApp](https://wa.me/919345423474)
-🌐 Or check out my [Portfolio](https://www.nithish876.netlify.app)
+* 📞 [WhatsApp Me Instantly](https://wa.me/919345423474)
+* 🌐 [Visit My Portfolio](https://www.nithish876.netlify.app)
+* 📈 [Hire Me on Upwork](https://www.upwork.com/freelancers/~019a296596dd84eb01)
 
 ---
 
-*“Code is not just what I do. It's how I express ideas, build dreams, and help others bring their visions to life.”*
+<blockquote><em>“Code isn't just syntax. It's a canvas where logic meets creativity, and great ideas become real.”</em></blockquote>
 
 ---
 
 ## 🔗 Quick Links
 
-* 🌍 Portfolio: [nithish876.netlify.app](https://nithish876.netlify.app/)
-* 📸 Instagram (coming soon): [@code.with.nithish](#)
-* 🔥 Upwork: [Profile Link](https://www.upwork.com/freelancers/~019a296596dd84eb01)
- 
- 
+* 🌍 Portfolio: [nithish876.netlify.app](https://www.nithish876.netlify.app/)
+* 📷 Instagram (coming soon): [@code.with.nithish](#)
+* 🔥 Upwork: [Profile](https://www.upwork.com/freelancers/~019a296596dd84eb01)
+
+---
