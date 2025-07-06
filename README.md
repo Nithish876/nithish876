@@ -1,59 +1,69 @@
-# Nithish — Mobile Engineer
-
-React Native (Expo) • Frontend Craft • Product-focused Engineering
-
----
-
-## About
-
-I'm a self-taught developer building polished mobile apps using **React Native (Expo)** and **JavaScript**. My focus is on performance, clarity, and design precision — building products that feel fast, intuitive, and thoughtfully engineered.
-
-I care deeply about clean architecture, smooth interactions, and writing code that scales.
+<h1 align="center" style="font-weight:600; font-size:2.2em; color:#00C7B7; letter-spacing:-1px;">Nithish — Indie JavaScript Engineer</h1>
+<h3 align="center" style="color:#666; font-weight:400;">Building clean products with code, clarity, and craft.</h3>
 
 ---
 
-## Tools I Work With
+## 🧭 About
 
-```
-Mobile       →  React Native (Expo), Expo Router v3, Kotlin (Android)
+I'm a self-taught engineer with a product-first mindset. I design and build **fast, elegant, and scalable** software using the **JavaScript ecosystem** — from mobile apps to SaaS platforms.
+
+I treat every project like a product, not a task — with sharp attention to architecture, UX, and maintainability.
+
+**Core Values:**
+
+* Precision > Polish
+* Depth > Hype
+* Autonomy > Convention
+
+> I’m not trying to be everywhere. I’m trying to be excellent where I choose to be.
+
+---
+
+## ⚙️ Stack & Tools
+
+```ts
+Mobile       →  React Native (Expo), Kotlin (Android)
 Frontend     →  React.js, Next.js, TailwindCSS, Framer Motion
-Backend      →  Supabase, Firebase, Node.js, Express.js
+Backend      →  Node.js, Supabase, Firebase, Express.js
 Database     →  PostgreSQL, MongoDB, MySQL
-Dev Tools    →  Git, VS Code, Postman, Figma, Netlify, Vercel
+SaaS Infra   →  Stripe, PDFKit, Webhooks, Auth
+Dev Tools    →  Git, Figma, VS Code, Postman, Netlify, Vercel
 ```
 
 ---
 
-## Selected Work
+## 🧪 Projects
 
-**Haby — Habit Tracker**
+### Haby — Habit Tracker
 
-Minimal, structured habit tracking with analytics and revenue integration.
+Clean and minimalist habit tracker built for consistency, insights, and monetization.
 
-* Built with Expo + Supabase
-* Firebase Auth, custom theming
-* RevenueCat integration
+* Expo Router v3, Firebase Auth, Supabase DB
+* Built with prebuild for performance
+* RevenueCat subscription layer
 
-[GitHub →](https://github.com/nithish876/haby)    [Preview →](https://haby.netlify.app)
-
-**Invoice Generator**
-
-Professional invoice app with PDF templates and authentication.
-
-* Supabase backend + PDF export
-* Expo Prebuild for native performance
-* Minimal, branded UI
-
-[GitHub →](https://github.com/nithish876/invoice-app)
+[GitHub ↗](https://github.com/nithish876/haby)   |   [Preview ↗](https://haby.netlify.app)
 
 ---
 
-## Elsewhere
+### Invoicer — Invoice Generator
 
-* Portfolio → [nithish876.netlify.app](https://nithish876.netlify.app)
-* Upwork → [Profile](https://www.upwork.com/freelancers/~019a296596dd84eb01)
-* Email → [nithish876876@gmail.com](mailto:nithish876876@gmail.com)
+A focused, professional invoicing tool with customizable PDF templates.
+
+* Full-stack: Expo Prebuild + Supabase
+* Secure PDF export engine
+* Stripe-ready architecture (coming soon)
+
+[GitHub ↗](https://github.com/nithish876/invoice-app)
 
 ---
 
-> "Good software is quiet. Great software is invisible."
+## 📡 Connect
+
+* 🌍 [nithish876.netlify.app](https://nithish876.netlify.app)
+* 💼 [Upwork](https://www.upwork.com/freelancers/~019a296596dd84eb01)
+* 📫 [nithish876876@gmail.com](mailto:nithish876876@gmail.com)
+
+---
+
+<blockquote><em>"Quiet software. Sharp code. Clear purpose."</em></blockquote>
